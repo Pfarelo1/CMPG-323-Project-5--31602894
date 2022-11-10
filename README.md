@@ -63,4 +63,4 @@ Create a reference list document that contains all sites visited and used to com
 
 
 
-The user must select which filter to user when opening the Report.  
+*The* user must select which filter to user when opening the Report*.  
